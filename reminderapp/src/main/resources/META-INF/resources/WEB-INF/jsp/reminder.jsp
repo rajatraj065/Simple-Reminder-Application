@@ -3,7 +3,7 @@
 		<!DOCTYPE html>
 		<html>
 			<head>
-				<title> Tushar Reminder App</title>
+				<title> Rajat Reminder App</title>
 				<style>
         body {
             font-family: Arial, sans-serif;
